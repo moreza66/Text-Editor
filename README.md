@@ -25,7 +25,9 @@ Type the following command in your termimal:
 `npm run start`
 Then open Insomnia and type http://localhost:3000/ to run this application on your local machine.
 ## Deployed Link
+
 The link to the deployed application is: https://mo-text-editor.herokuapp.com/
+![](./Assets/Image/Screen%20Shot%202022-12-20%20at%207.04.29%20PM.jpg)
 
 **[⬆ back to top](#table-of-contents)**
 
